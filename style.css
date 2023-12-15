@@ -1,0 +1,14 @@
+h1{
+    color: pink;
+}
+p{
+    color: orange;
+}
+body{
+    background-color: black;
+}
+.My_container{
+  height: 50vh;
+  background-color: whitesmoke; 
+  text-align: center;
+}
